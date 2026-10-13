@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/api/client.ts","./src/api/rinApi.ts","./src/components/StatusPill.tsx","./src/layouts/AppLayout.tsx","./src/pages/LibraryPage.tsx","./src/pages/OverviewPage.tsx","./src/pages/PlaceholderPage.tsx","./src/types/index.ts","./src/utils/clsx.ts"],"version":"5.9.3"}
