@@ -1,2 +1,2 @@
 # yt_automationz
-upload all your yt shorts and upload them 
+Automated script to upload YouTube Shorts seamlessly.
