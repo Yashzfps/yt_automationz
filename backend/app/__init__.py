@@ -1,0 +1,1 @@
+"""RIN backend application package."""
